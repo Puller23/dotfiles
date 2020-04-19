@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+alias dotfiles='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 # Easier navigation
 alias ..="cd .."
 alias ...="cd ../.."
