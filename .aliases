@@ -27,3 +27,4 @@ alias gs='git status'
 alias gc='git commit'
 alias gp='git pull --rebase'
 alias gcam='git commit -am'
+
