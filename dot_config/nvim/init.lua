@@ -1,0 +1,7 @@
+require("grba.plugins-setup")
+require("grba.core.options")
+require("grba.core.keymaps")
+require("grba.core.colorscheme")
+require("grba.plugins.comment")
+require("grba.plugins.nvim-tree")
+require("grba.plugins.lualine")
